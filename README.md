@@ -1,5 +1,5 @@
 # Analysis-of-Education-in-United-Republic-of-Tanzania
-In this project, I looked into Secondary school enrollment. The main question that I was answering was, are male students more likely to attend school than female students?
+In this project, I looked into Secondary school enrollment. The main question that I was answering was, are male students more likely to enroll secondary school at a younger age than female? Next, question was, are male more likely to attend school than female? Lastly, Which region has more female to male ratio?
 
 To answer this, I used dataset that describes secondary school enrollment in Tanzania in the year 2019. I obtained this dataset from http://opendata.go.tz/dataset/takwimu-za-shule-za-sekondari-zilizoainishwa-kwa-uandikishaji-umri-na-jinsi. 
 
